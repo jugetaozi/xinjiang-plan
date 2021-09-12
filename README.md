@@ -2,7 +2,7 @@
  * @Author: 吴迪
  * @Date: 2021-09-07 21:18:59
  * @LastEditors: OBKoro1
- * @LastEditTime: 2021-09-12 16:46:16
+ * @LastEditTime: 2021-09-12 17:14:09
 -->
 <!--
  * @Author: 吴迪
@@ -10,8 +10,13 @@
  * @LastEditors: OBKoro1
  * @LastEditTime: 2021-09-12 14:40:48
 -->
-# Introduction https://jugetaozi.github.io/xinjiang-plan/
-# [在线地址](https://jugetaozi.github.io/xinjiang-plan/)
+Introduction https://jugetaozi.github.io/xinjiang-plan/
+
+[在线地址](https://jugetaozi.github.io/xinjiang-plan/)
+
+日期：9.17---9.27
+
+车：捷达VS7
 
 ![](./note/img/4.png)
 
